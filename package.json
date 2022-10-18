@@ -1,5 +1,5 @@
 {
-  "homepages":"https://Kertich.github.io/landingpg",
+  "homepages": "https://Kertich.github.io/landingpg",
   "name": "island",
   "version": "0.1.0",
   "private": true,
@@ -21,7 +21,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-    
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -37,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
